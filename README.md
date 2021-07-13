@@ -12,3 +12,5 @@ The deployed work must have:
 2. Link to the deployed version
 3. Link to the GitHub repository
 4. Screenshot of the deployed application
+
+![githubscreenshot](https://user-images.githubusercontent.com/82125077/125380589-6a9d6e80-e360-11eb-8f7b-19d438c9b681.png)
